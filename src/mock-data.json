@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "fullName": "Aman Dhatarwal",
+      "address": "Mumbai",
+      "phoneNumber": "999999999",
+      "email":"amandhatarwal@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Roman Saini",
+      "address": "Rajasthan",
+      "phoneNumber": "8933219999",
+      "email":"romansaini@gmail.com"
+    }
+    
+  ]
